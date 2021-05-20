@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>team5</groupId>
-	<artifactId>dollardays</artifactId>
+	<artifactId>dollardays-auto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dollardays</name>
 	<description>automation for dollardays</description>
